@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/contact-us.html</loc>
+    <loc>http://cbt.iitd.ac.in/newsletters.html</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/newsletters.html</loc>
+    <loc>http://cbt.iitd.ac.in/contact-us.html</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,13 +31,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/people.html</loc>
+    <loc>http://cbt.iitd.ac.in/collaborators.html</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/collaborators.html</loc>
+    <loc>http://cbt.iitd.ac.in/people.html</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,19 +55,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4211.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://cbt.iitd.ac.in/images/dsc_8506_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://cbt.iitd.ac.in/images/dsc_4211.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://cbt.iitd.ac.in/images/dsc_4211_2x.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/dsc_3599.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -85,6 +91,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://cbt.iitd.ac.in/images/001-squares-1_poster_25x25.png</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/001-squares-1_poster__2x.png</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://cbt.iitd.ac.in/images/dsc_3546541x360.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,13 +115,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3599.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -169,7 +187,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360_2x.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -193,13 +217,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45_2x.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11745x45.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -223,7 +241,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%2094x9319x19.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -241,6 +265,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%2094x9319x19.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20122x12519x19.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x14519x19.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,12 +284,6 @@
   </url>
   <url>
     <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x14519x19_2x.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11719x19.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -283,25 +313,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19_2x.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19_2x.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11719x19.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -313,7 +325,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11745x45.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/dsc_3546_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -331,7 +343,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20122x12519x19.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19_2x.jpg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -601,14 +619,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/cbt-logo-three-tone-green_svg.svg</loc>
-    <lastmod>2017-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3546_2x.jpg</loc>
-    <lastmod>2017-08-03</lastmod>
+    <loc>http://cbt.iitd.ac.in/assets/newsletter_coe-cbt-min2.pdf</loc>
+    <lastmod>2017-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -625,7 +637,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20147x14319x19_2x.jpg</loc>
+    <loc>http://cbt.iitd.ac.in/images/cbt-logo-three-tone-green_svg.svg</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -633,6 +645,12 @@
   <url>
     <loc>http://cbt.iitd.ac.in/assets/newsletter_coe-cbt-min.pdf</loc>
     <lastmod>2017-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20147x14319x19_2x.jpg</loc>
+    <lastmod>2017-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
