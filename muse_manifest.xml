@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1501744105742">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1501747065476">
   <folder name="css">
-    <file name="site_global.css" crc="169976229"/>
+    <file name="site_global.css" crc="4025906228"/>
     <file name="master_b-master.css" crc="4211710714" ref="newsletters"/>
     <file name="nomq_preview_master_b-master.css" crc="4037013156" ref="newsletters"/>
-    <file name="master_a-master.css" crc="3935909096" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
-    <file name="nomq_preview_master_a-master.css" crc="4113939206" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
+    <file name="master_a-master.css" crc="3923753105" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
+    <file name="nomq_preview_master_a-master.css" crc="3788791599" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
     <file name="contact-us.css" crc="164841635" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="3794859870" ref="contact-us"/>
     <file name="collaborators.css" crc="3900416392" ref="collaborators"/>
@@ -19,8 +19,8 @@
     <file name="nomq_index.css" crc="4157125124" ref="index"/>
     <file name="gallery.css" crc="506547070" ref="gallery"/>
     <file name="nomq_gallery.css" crc="3917277102" ref="gallery"/>
-    <file name="people.css" crc="3906343353" ref="people"/>
-    <file name="nomq_people.css" crc="324811510" ref="people"/>
+    <file name="people.css" crc="477694523" ref="people"/>
+    <file name="nomq_people.css" crc="4044148340" ref="people"/>
     <file name="iefonts_people.css" crc="3962075537" ref="people"/>
   </folder>
   <folder name="assets">
@@ -46,9 +46,9 @@
   </folder>
   <folder name="images">
     <file name="cbt-logo-three-tone-green_svg.svg" crc="158710720" seo="true" ref="index:people:collaborators:activities:gallery:contact-us:newsletters"/>
-    <file name="cbt-logo-three-tone-green_svg_poster_.png" crc="3886208228" ref="index:contact-us"/>
+    <file name="cbt-logo-three-tone-green_svg_poster_.png" crc="3886208228" ref="index:contact-us:people"/>
     <file name="cbt-title-01-01.svg" crc="171933738" seo="true" ref="index:people:collaborators:activities:gallery:contact-us:newsletters"/>
-    <file name="cbt title-01-01_poster_.png" crc="3814378032" ref="index:contact-us"/>
+    <file name="cbt title-01-01_poster_.png" crc="3814378032" ref="index:contact-us:people"/>
     <file name="dsc_3546.jpg" crc="4160857207" seo="true" ref="index"/>
     <file name="dsc_3546_2x.jpg" crc="46252599" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:people:collaborators:activities:gallery:contact-us:newsletters"/>
@@ -87,7 +87,7 @@
     <file name="u5543-r.png" crc="479930018" ref="index"/>
     <file name="u5543-r_2x.png" crc="4186500212" ref="index"/>
     <file name="biotech-pipette.jpg" crc="3820063841" ref="index:people:collaborators:activities:gallery:contact-us:newsletters"/>
-    <file name="001-squares-1_poster_25x25.png" crc="145148736" seo="true" ref="index:contact-us"/>
+    <file name="001-squares-1_poster_25x25.png" crc="145148736" seo="true" ref="index:contact-us:people"/>
     <file name="001-squares-1_poster__2x.png" crc="4210876586" seo="true" ref="index:people:collaborators:activities:gallery:contact-us:newsletters"/>
     <file name="dsc_3546541x360.jpg" crc="230352672" seo="true" ref="index"/>
     <file name="dsc_3546541x360_2x.jpg" crc="4215889089" seo="true" ref="index"/>
@@ -408,7 +408,7 @@
     <file name="contact us-crop-u60153.jpg" crc="3970820120" ref="contact-us"/>
   </folder>
   <file name="index.html" crc="255983250" seo="true" mt="1501743700416" redirect="true"/>
-  <file name="people.html" crc="4066460794" seo="true" mt="1501743700416" redirect="true"/>
+  <file name="people.html" crc="131816024" seo="true" mt="1501747010021" redirect="true"/>
   <file name="collaborators.html" crc="3992700577" seo="true" mt="1501743700511" redirect="true"/>
   <file name="activities.html" crc="3770176642" seo="true" mt="1501743700660" redirect="true"/>
   <file name="gallery.html" crc="294577802" seo="true" mt="1501743700456" redirect="true"/>
