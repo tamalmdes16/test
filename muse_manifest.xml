@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1501747065476">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1503222988014">
   <folder name="css">
     <file name="site_global.css" crc="4025906228"/>
     <file name="master_b-master.css" crc="4211710714" ref="newsletters"/>
     <file name="nomq_preview_master_b-master.css" crc="4037013156" ref="newsletters"/>
-    <file name="master_a-master.css" crc="3923753105" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
+    <file name="master_a-master.css" crc="152453425" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
     <file name="nomq_preview_master_a-master.css" crc="3788791599" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
-    <file name="contact-us.css" crc="164841635" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="3794859870" ref="contact-us"/>
+    <file name="contact-us.css" crc="95627147" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="51198625" ref="contact-us"/>
     <file name="collaborators.css" crc="3900416392" ref="collaborators"/>
     <file name="nomq_collaborators.css" crc="3834578806" ref="collaborators"/>
     <file name="iefonts_collaborators.css" crc="3962075537" ref="collaborators"/>
@@ -15,12 +15,12 @@
     <file name="iefonts_newsletters.css" crc="3962075537" ref="newsletters"/>
     <file name="activities.css" crc="68605361" ref="activities"/>
     <file name="nomq_activities.css" crc="4183335143" ref="activities"/>
-    <file name="index.css" crc="191750622" ref="index"/>
+    <file name="index.css" crc="3976068811" ref="index"/>
     <file name="nomq_index.css" crc="4157125124" ref="index"/>
     <file name="gallery.css" crc="506547070" ref="gallery"/>
     <file name="nomq_gallery.css" crc="3917277102" ref="gallery"/>
-    <file name="people.css" crc="477694523" ref="people"/>
-    <file name="nomq_people.css" crc="4044148340" ref="people"/>
+    <file name="people.css" crc="358838729" ref="people"/>
+    <file name="nomq_people.css" crc="106445553" ref="people"/>
     <file name="iefonts_people.css" crc="3962075537" ref="people"/>
   </folder>
   <folder name="assets">
@@ -70,8 +70,6 @@
     <file name="u996-r.png" crc="4272672594" ref="index"/>
     <file name="u996-r_2x.png" crc="3849897487" ref="index"/>
     <file name="iit-delhi-logo-2150x150.png" crc="104881776" seo="true" ref="index"/>
-    <file name="dsc_3432-crop-u3446.jpg" crc="3976596801" ref="index"/>
-    <file name="dsc_3432-crop-u3446_2x.jpg" crc="149108318" ref="index"/>
     <file name="u3415.png" crc="3847842198" ref="index"/>
     <file name="u3415_2x.png" crc="337339538" ref="index"/>
     <file name="u3415-r.png" crc="3847842198" ref="index"/>
@@ -108,8 +106,6 @@
     <file name="u996-r2.png" crc="3816804203" ref="index"/>
     <file name="u996-r_2x2.png" crc="3922414371" ref="index"/>
     <file name="iit-delhi-logo-2.png" crc="273115438" seo="true" ref="index"/>
-    <file name="dsc_3432-crop-u34462.jpg" crc="44746946" ref="index"/>
-    <file name="dsc_3432-crop-u3446_2x2.jpg" crc="139417103" ref="index"/>
     <file name="u34152.png" crc="485536262" ref="index"/>
     <file name="u3415_2x2.png" crc="3766241181" ref="index"/>
     <file name="u3415-r2.png" crc="485536262" ref="index"/>
@@ -137,8 +133,6 @@
     <file name="u996-r3.png" crc="3942554296" ref="index"/>
     <file name="u996-r_2x3.png" crc="4275204091" ref="index"/>
     <file name="iit-delhi-logo-287x87.png" crc="11661129" seo="true" ref="index"/>
-    <file name="dsc_3432-crop-u34463.jpg" crc="456787937" ref="index"/>
-    <file name="dsc_3432-crop-u3446_2x3.jpg" crc="4227527601" ref="index"/>
     <file name="u34153.png" crc="4000199640" ref="index"/>
     <file name="u3415_2x3.png" crc="4130536888" ref="index"/>
     <file name="u3415-r3.png" crc="4000199640" ref="index"/>
@@ -182,12 +176,12 @@
     <file name="pasted image 147x143-crop-u36722_2x.jpg" crc="394159087" ref="people"/>
     <file name="pasted image 149x152-crop-u36728.jpg" crc="336547469" ref="people"/>
     <file name="pasted image 149x152-crop-u36728_2x.jpg" crc="279012090" ref="people"/>
-    <file name="u6097-42.png" crc="4081755847" ref="people"/>
-    <file name="u6097-4_2x2.png" crc="507831596" ref="people"/>
-    <file name="u6100-42.png" crc="3948598737" ref="people"/>
-    <file name="u6100-4_2x2.png" crc="473605516" ref="people"/>
-    <file name="u6109-42.png" crc="96716300" ref="people"/>
-    <file name="u6109-4_2x2.png" crc="229746028" ref="people"/>
+    <file name="u6097-42.png" crc="491088001" ref="people"/>
+    <file name="u6097-4_2x2.png" crc="262523367" ref="people"/>
+    <file name="u6100-42.png" crc="4107417430" ref="people"/>
+    <file name="u6100-4_2x2.png" crc="4263991462" ref="people"/>
+    <file name="u6109-42.png" crc="76253939" ref="people"/>
+    <file name="u6109-4_2x2.png" crc="3805003718" ref="people"/>
     <file name="pasted image 119x11945x45.jpg" crc="4201474504" seo="true" ref="people"/>
     <file name="pasted image 124x116-crop-u366342.jpg" crc="507291813" ref="people"/>
     <file name="pasted image 149x15245x45.jpg" crc="3856780974" seo="true" ref="people"/>
@@ -211,12 +205,12 @@
     <file name="pasted image 144x14245x45_2x.jpg" crc="214783629" seo="true" ref="people"/>
     <file name="pasted image 143x147-crop-u367042.jpg" crc="472471125" ref="people"/>
     <file name="pasted image 143x147-crop-u36704_2x2.jpg" crc="4030673773" ref="people"/>
-    <file name="u6097-43.png" crc="3799536712" ref="people"/>
-    <file name="u6097-4_2x3.png" crc="67168140" ref="people"/>
-    <file name="u6100-43.png" crc="304910166" ref="people"/>
-    <file name="u6100-4_2x3.png" crc="346678295" ref="people"/>
-    <file name="u6109-43.png" crc="3942827225" ref="people"/>
-    <file name="u6109-4_2x3.png" crc="195080867" ref="people"/>
+    <file name="u6097-43.png" crc="462318120" ref="people"/>
+    <file name="u6097-4_2x3.png" crc="228130754" ref="people"/>
+    <file name="u6100-43.png" crc="50575019" ref="people"/>
+    <file name="u6100-4_2x3.png" crc="338148973" ref="people"/>
+    <file name="u6109-43.png" crc="4159754683" ref="people"/>
+    <file name="u6109-4_2x3.png" crc="4231793128" ref="people"/>
     <file name="pasted image 119x11919x19.jpg" crc="391879007" seo="true" ref="people"/>
     <file name="pasted image 124x116-crop-u366343.jpg" crc="3770189376" ref="people"/>
     <file name="pasted image 149x15219x19.jpg" crc="179104764" seo="true" ref="people"/>
@@ -403,15 +397,30 @@
     <file name="u4752-m_2x.png" crc="3989605699" ref="newsletters"/>
     <file name="u4752-a.png" crc="61624960" ref="newsletters"/>
     <file name="u4752-a_2x.png" crc="3995872545" ref="newsletters"/>
-    <file name="contact us-crop-u6015.jpg" crc="103527160" ref="contact-us"/>
-    <file name="contact us-crop-u60152.jpg" crc="4206137935" ref="contact-us"/>
-    <file name="contact us-crop-u60153.jpg" crc="3970820120" ref="contact-us"/>
+    <file name="img-5551-crop-u3446.jpg" crc="69956980" ref="index"/>
+    <file name="img-5551-crop-u3446_2x.jpg" crc="4205174233" ref="index"/>
+    <file name="img-5551-crop-u34462.jpg" crc="3915079286" ref="index"/>
+    <file name="img-5551-crop-u3446_2x2.jpg" crc="4172544330" ref="index"/>
+    <file name="img-5551-crop-u34463.jpg" crc="343693865" ref="index"/>
+    <file name="img-5551-crop-u3446_2x3.jpg" crc="3783289169" ref="index"/>
+    <file name="pasted image 244x314-crop-u39929.jpg" crc="3813170207" ref="people"/>
+    <file name="pasted image 244x314-crop-u39929_2x.jpg" crc="178956412" ref="people"/>
+    <file name="pasted image 244x314-crop-u399292.jpg" crc="263305696" ref="people"/>
+    <file name="pasted image 244x314-crop-u39929_2x2.jpg" crc="100580049" ref="people"/>
+    <file name="pasted image 244x314-crop-u399293.jpg" crc="4247746647" ref="people"/>
+    <file name="pasted image 244x314-crop-u39929_2x3.jpg" crc="206229074" ref="people"/>
+    <file name="img-5551-crop-u6015.jpg" crc="3893694075" ref="contact-us"/>
+    <file name="img-5551-crop-u6015_2x.jpg" crc="413402740" ref="contact-us"/>
+    <file name="img-5551-crop-u60152.jpg" crc="479833590" ref="contact-us"/>
+    <file name="img-5551-crop-u6015_2x2.jpg" crc="4195900903" ref="contact-us"/>
+    <file name="img-5551-crop-u60153.jpg" crc="531413229" ref="contact-us"/>
+    <file name="img-5551-crop-u6015_2x3.jpg" crc="258362647" ref="contact-us"/>
   </folder>
-  <file name="index.html" crc="255983250" seo="true" mt="1501743700416" redirect="true"/>
-  <file name="people.html" crc="131816024" seo="true" mt="1501747010021" redirect="true"/>
+  <file name="index.html" crc="444665917" seo="true" mt="1503222242460" redirect="true"/>
+  <file name="people.html" crc="4110402000" seo="true" mt="1503222895450" redirect="true"/>
   <file name="collaborators.html" crc="3992700577" seo="true" mt="1501743700511" redirect="true"/>
   <file name="activities.html" crc="3770176642" seo="true" mt="1501743700660" redirect="true"/>
   <file name="gallery.html" crc="294577802" seo="true" mt="1501743700456" redirect="true"/>
-  <file name="contact-us.html" crc="4241372187" seo="true" mt="1501744094358" redirect="true"/>
+  <file name="contact-us.html" crc="4107715414" seo="true" mt="1503222971345" redirect="true"/>
   <file name="newsletters.html" crc="3971299504" seo="true" mt="1501743700614" redirect="true"/>
 </manifest>
