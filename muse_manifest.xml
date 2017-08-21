@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1503222988014">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cbt.iitd.ac.in" resolutions="1x,2x" timestamp="1503296802002">
   <folder name="css">
     <file name="site_global.css" crc="4025906228"/>
     <file name="master_b-master.css" crc="4211710714" ref="newsletters"/>
     <file name="nomq_preview_master_b-master.css" crc="4037013156" ref="newsletters"/>
-    <file name="master_a-master.css" crc="152453425" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
-    <file name="nomq_preview_master_a-master.css" crc="3788791599" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
+    <file name="master_a-master.css" crc="4161949923" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
+    <file name="nomq_preview_master_a-master.css" crc="4126751833" ref="contact-us:collaborators:newsletters:activities:index:gallery:people"/>
     <file name="contact-us.css" crc="95627147" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="51198625" ref="contact-us"/>
     <file name="collaborators.css" crc="3900416392" ref="collaborators"/>
@@ -19,7 +19,7 @@
     <file name="nomq_index.css" crc="4157125124" ref="index"/>
     <file name="gallery.css" crc="506547070" ref="gallery"/>
     <file name="nomq_gallery.css" crc="3917277102" ref="gallery"/>
-    <file name="people.css" crc="358838729" ref="people"/>
+    <file name="people.css" crc="137891174" ref="people"/>
     <file name="nomq_people.css" crc="106445553" ref="people"/>
     <file name="iefonts_people.css" crc="3962075537" ref="people"/>
   </folder>
@@ -404,7 +404,7 @@
     <file name="img-5551-crop-u34463.jpg" crc="343693865" ref="index"/>
     <file name="img-5551-crop-u3446_2x3.jpg" crc="3783289169" ref="index"/>
     <file name="pasted image 244x314-crop-u39929.jpg" crc="3813170207" ref="people"/>
-    <file name="pasted image 244x314-crop-u39929_2x.jpg" crc="178956412" ref="people"/>
+    <file name="pasted image 244x314-crop-u39929_2x.jpg" crc="278455536" ref="people"/>
     <file name="pasted image 244x314-crop-u399292.jpg" crc="263305696" ref="people"/>
     <file name="pasted image 244x314-crop-u39929_2x2.jpg" crc="100580049" ref="people"/>
     <file name="pasted image 244x314-crop-u399293.jpg" crc="4247746647" ref="people"/>
@@ -417,7 +417,7 @@
     <file name="img-5551-crop-u6015_2x3.jpg" crc="258362647" ref="contact-us"/>
   </folder>
   <file name="index.html" crc="444665917" seo="true" mt="1503222242460" redirect="true"/>
-  <file name="people.html" crc="4110402000" seo="true" mt="1503222895450" redirect="true"/>
+  <file name="people.html" crc="491548347" seo="true" mt="1503296754337" redirect="true"/>
   <file name="collaborators.html" crc="3992700577" seo="true" mt="1501743700511" redirect="true"/>
   <file name="activities.html" crc="3770176642" seo="true" mt="1501743700660" redirect="true"/>
   <file name="gallery.html" crc="294577802" seo="true" mt="1501743700456" redirect="true"/>
