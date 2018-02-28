@@ -1,662 +1,548 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cbt.iitd.ac.in/index.html</loc>
-    <lastmod>2017-08-20</lastmod>
+    <loc>http://www.Do_design.ac.in/index.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/newsletters.html</loc>
-    <lastmod>2017-08-03</lastmod>
+    <loc>http://www.Do_design.ac.in/first-year.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/contact-us.html</loc>
-    <lastmod>2017-08-20</lastmod>
+    <loc>http://www.Do_design.ac.in/second-year.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/gallery.html</loc>
-    <lastmod>2017-08-03</lastmod>
+    <loc>http://www.Do_design.ac.in/staff.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/activities.html</loc>
-    <lastmod>2017-08-03</lastmod>
+    <loc>http://www.Do_design.ac.in/alumni.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/collaborators.html</loc>
-    <lastmod>2017-08-03</lastmod>
+    <loc>http://www.Do_design.ac.in/dod-recruiter.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/people.html</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/downloads.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/students-portfolios.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_8506.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/jobs.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_8506_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/directory.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4211.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/admissions.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4211_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/project-staff-jobs.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3599.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/faculty-jobs.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3599_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/internships.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/iit-delhi-logo-2150x150.png</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/past-recruiters.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/001-squares-1_poster_25x25.png</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/placement-brochures.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/001-squares-1_poster__2x.png</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/seminars.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3546541x360.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/lectures.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3546541x360_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/workshops.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/conferences.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768541x360_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/collaborations.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_8506541x359.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/business-incubation.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_8506541x359_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/products-developed.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4211558x361.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/research-achievenments.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4211558x361_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/consultancyprojects.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3599541x360.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/patents.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3599541x360_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/publications.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/iit-delhi-logo-2.png</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/vehicle-lab.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/iit-delhi-logo-287x87.png</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/prototyping-labs.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20119x11962x62.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/ux-lab.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20119x11945x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/broad-areas.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/contact-us.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15245x45_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/programs-internships.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%2094x9345x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/programs-ceqip.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14146x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/programs-ph.d.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14146x45_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/programs-m-des.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11745x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/programs-b-des.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14245x45.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/students-phd.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14245x45_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/students-pg.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20119x11919x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/faculty-contacts.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/students-ug.html</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x15219x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0797.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20136x13120x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0797_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20136x13120x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0828_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%2094x9319x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0828.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20122x12519x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/17990179_1561207837282260_5093727341367616120_o_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x14519x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/14242349_1318851874821575_6840473121269012307_o.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20149x14519x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/14242349_1318851874821575_6840473121269012307_o_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20161x16519x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0640-2.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20161x16519x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0640-2_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14119x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/assets/do-design-2trim.mp4</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14119x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/17990179_1561207837282260_5093727341367616120_o.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20116x11719x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/25550426_533314343702284_9039448510378812376_n_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20147x14319x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/25550426_533314343702284_9039448510378812376_n.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3546_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0718_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3768.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0718.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14219x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0730-edit_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0730-edit.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20143x14719x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0707_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0707.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0749-edit_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0749-edit.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0561_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0561.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0661_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1325x183.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0661.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1325x183_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0496-edit_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia325x183.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0496-edit.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia325x183_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0550_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry662x373.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0550.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry662x373_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0525_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1136x77.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0525.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/public%20institutions1136x77_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/saajan%202-2_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia136x77.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/saajan%202-2.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/academia136x77_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/ritu_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry276x156.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/ritu.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/industry276x156_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/kalpana_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4189.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/kalpana.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4189_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/soamyata_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0206.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/soamyata.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0206_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/pic01.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0287.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/png2jpg_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0287_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/png2jpg.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0313.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/courses.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0313_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/bullet-01_2x.png</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0372.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/bullet-01.png</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_0372_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/iitlogo_2x.png</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3812.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/iitlogo.png</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3812_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0691.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3594.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/assets/m.des-placement-brochure.pdf</loc>
+    <lastmod>2017-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3594_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3567.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3567_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3492.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3492_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4023.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4023_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4030.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4030_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4128.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_4128_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/newsletter_coe-cbt-min-1.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/newsletter_coe-cbt-min-1_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/assets/newsletter_coe-cbt-min2.pdf</loc>
-    <lastmod>2017-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/dsc_3546.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/cbt-title-01-01.svg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/cbt-logo-three-tone-green_svg.svg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/assets/newsletter_coe-cbt-min.pdf</loc>
-    <lastmod>2017-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20147x14319x19_2x.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cbt.iitd.ac.in/images/pasted%20image%20144x14219x19.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://www.Do_design.ac.in/images/_dsc0691_2x.jpg</loc>
+    <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
